@@ -1,5 +1,5 @@
 #pragma once
-#pragma comment (lib, "User32.lib")
+#pragma comment (lib, "user32.lib")
 #include <ctime>
 #include <cstdint>
 #include <conio.h>
