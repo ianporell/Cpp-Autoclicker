@@ -127,6 +127,7 @@
     <ClInclude Include="ClickRecorder.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="LowLevelKeyboardHook.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="ClickRecorder.resx">

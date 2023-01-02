@@ -19,6 +19,9 @@
     <Filter Include="Src\Forms">
       <UniqueIdentifier>{6782bfbb-fb24-4753-800e-058f2c15d62a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Src\Scripts">
+      <UniqueIdentifier>{87f52611-b84b-417a-9145-e996a94999e0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ClickRecorder.cpp">
@@ -28,6 +31,9 @@
   <ItemGroup>
     <ClInclude Include="ClickRecorder.h">
       <Filter>Src\Forms</Filter>
+    </ClInclude>
+    <ClInclude Include="LowLevelKeyboardHook.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
